@@ -36,5 +36,5 @@ Currently, I'm building interactive, cross-platform mobile tools as a Computer S
 
 
 ### 📫 Let's Connect!
-* **Website:** kezidio.github.io/my-website/
+* **Website:** [kezidio.github.io/my-website/](https://kezidio.github.io/my-website/)---
 * **LinkedIn:** [linkedin.com/in/your-profile-here](http://www.linkedin.com/in/kaweny-ezidio)---
